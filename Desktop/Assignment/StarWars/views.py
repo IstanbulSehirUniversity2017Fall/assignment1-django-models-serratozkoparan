@@ -7,4 +7,4 @@ from django.shortcuts import render
 from django.http import HttpResponse
 
 def index(request):
-    return HttpResponse("<h1>git MAY THE FORCE BE WITH YOU!<h1>")
+    return HttpResponse("<h1>MAY THE FORCE BE WITH YOU!<h1>")
